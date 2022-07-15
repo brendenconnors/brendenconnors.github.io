@@ -1,3 +1,8 @@
 theme: minima
 title : Brenden Connors
 description : Welcome to my personal website. This website contains personal data science projects.
+collections :
+  data_visualization: 
+    output: true
+  machine_learning:
+    output: true
