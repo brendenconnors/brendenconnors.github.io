@@ -9,7 +9,7 @@ This is a WIP, so bear with me while I things get filled out.
 
 {% for p in site.collections %}
 {% if p.label != "posts" %}
-   <h1>{{p.label | capitalize | replace: "_", " "}}</h1>
+   <h1><b>{{p.label | capitalize | replace: "_", " "}}</b></h1>
 {% endif %}
    <ul>
    {% for page in site[p.label] %}
