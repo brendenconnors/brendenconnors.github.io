@@ -8,11 +8,13 @@ Hello! Here is a little about me.
 
 ### **Where am I from?**
 
-I am from Montana  in the United States, but currently living in Richmond, Virginia.
+I am from Montana in the United States, but currently living in Sacramento, California.
 
 ### **What is my current situation/employment?**
 
-I currently work for [Symend](https://symend.com/) as a Machine Learning Engineer. I have worked for Symend as both a data science intern and data scientist in some capacity since May 2020.
+I currently work for the Sacramento Kings of the National Basketball Association as a data scientist.
+
+I previously worked for [Symend](https://symend.com/) as a machine learning engineer. I  worked for Symend as both a data science intern, data scientist, ML engineer in some capacity since May 2020 until November 2022.
 
 Prior to that, I worked various jobs during school, some better than others. I particularly enjoyed being a farmhand for 3 years and coaching basketball. I am still looking to find a second data-scientist/farmhand/basketball coach. There must be at least one more out there!
 
@@ -24,7 +26,7 @@ I received both my degrees in Montana. I received my BS in mathematics in 2019 f
 
 Like most people working with data, I have a strong interest in machine learning. I have experience with both traditional statistical learning techniques and deep learning. However, the field is very broad, changing rapidly, and full of people much smarter than I, so I try to learn something new as often as I can.
 
-In addition to machine learning I have an interest/admiration for data visualization. I am a great admirer of work done by [Kirk Goldsberry](https://www.kirkgoldsberry.com/) and visualizations done by the [FiveThirtyEight team](https://fivethirtyeight.com/)
+In addition to machine learning, I love data visualization. I am a great admirer of work done by the [FiveThirtyEight team.](https://fivethirtyeight.com/)
 
 ### **What do I want to learn/improve?**
 
