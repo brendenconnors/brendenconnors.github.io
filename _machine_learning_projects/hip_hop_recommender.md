@@ -21,9 +21,13 @@ Enjoy the app below and let me know how good/bad your recommendations are!
  Hosted on Hugging Face Spaces. There are some plotting issues with embedded hugging face spaces, for a better view check out [here](https://huggingface.co/spaces/brendenc/Hip-Hop-gRadio)
 
 <html>
-<head>
-<script type="module" src="https://gradio.s3-us-west-2.amazonaws.com/3.0.20/gradio.js"></script>
-</head>
+<iframe
+	src="https://brendenc-hip-hop-gradio.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+>
+</iframe>
+
 </html>
 
-<gradio-app space="brendenc/Hip-Hop-gRadio"> </gradio-app>
