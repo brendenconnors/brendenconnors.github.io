@@ -22,5 +22,5 @@ Prior to that, I worked various jobs during school, some better than others. I p
 
 ### **What interests do I have?**
 
-Like most people working with data, I have a strong interest in machine learning. I have experience with both traditional statistical learning techniques and deep learning. However, the field is very broad, changing rapidly, and full of people much smarter than I, so I try to learn something new as often as I can. Lately, I have been trying to improve my software engineering type skills, to become a little more well rounded.
+Like most people working with data, I have a strong interest in machine learning. I have experience with both traditional statistical learning techniques and deep learning. However, the field is very broad, changing rapidly, and full of people much smarter than I, so I try to learn something new as often as I can. Lately, I have been trying to improve my software engineering type skills, to become more well rounded.
 
